@@ -17,7 +17,7 @@
 
 - 開發板：Digilent Basys 3
 - FPGA：Xilinx Artix-7 `xc7a35tcpg236-1`
-- Vivado：2024.2（原專案使用版本）
+- Vivado：2024.2
 - CPU：PicoRV32（RV32I 設定）
 
 ## 專案結構
